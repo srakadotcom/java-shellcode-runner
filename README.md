@@ -1,5 +1,5 @@
 # java-shellcode-runner
-yea jit hack shell cdode unsafe.putbyte ye u know what  im sayin ? 
+yea jit memory page RWX hack shell cdode native code excution unsafe.putbyte ye u know what  im sayin ? 
 ```java
         int n;
         Unsafe unsafe;
